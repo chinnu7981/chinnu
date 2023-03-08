@@ -94,6 +94,7 @@ h1{
     padding: 0px;
     background-color: rgba(255,255,255,.15);
     overflow: hidden;
+    border-radius:8px;
 }
 
 .speaker-block .image-box .image:after,
@@ -155,7 +156,7 @@ h1{
 .speaker-block .social-links ul{
     position: relative;
     padding: 30px 20px;
-    border-radius: 12px;
+    border-radius: 8px;
     text-align: center;
     background-color: rgba(255, 255, 255, 0.71);
 }
@@ -242,6 +243,9 @@ h1{
 }
 .ch-info h4{
     font-size: 22px;
+}
+.ch-info h2{
+    font-weight: 100;
 }
 h4{
     font-size: 1.5rem;
